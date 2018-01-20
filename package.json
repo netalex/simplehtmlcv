@@ -1,0 +1,24 @@
+{
+  "name": "simplehtmlcv",
+  "version": "1.0.0",
+  "description": "simple html cv",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netalex/simplehtmlcv.git"
+  },
+  "keywords": [
+    "cv",
+    "html",
+    "gulp"
+  ],
+  "author": "Alessandro Aprile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netalex/simplehtmlcv/issues"
+  },
+  "homepage": "https://github.com/netalex/simplehtmlcv#readme"
+}
